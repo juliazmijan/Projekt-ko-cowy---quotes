@@ -1,0 +1,22 @@
+* {
+    background-color: #DDECF2;
+}
+
+
+.btn_next {
+    position: relative;
+    color: black;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #EAF1F4;
+    text-transform: uppercase;
+    width: 200px;
+    height: 30px;
+    border-radius: 50px;
+    border: 1px solid lightgray;
+    display: inline-block;
+
+
+
+
+}
